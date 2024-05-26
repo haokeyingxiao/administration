@@ -1,0 +1,36 @@
+{
+  "sw-settings-units": {
+    "detail": {
+      "fieldLabels": {
+        "name": "计量单位",
+        "shortCode": "缩写"
+      }
+    },
+    "general": {
+      "mainMenuItemGeneral": "计量单位",
+      "placeholderSearchBar": "搜索计量单位...",
+      "createNewUnit": "添加",
+      "disableAddNewUnitMessage": "只能使用系统默认语言添加新的计量单位."
+    },
+    "grid": {
+      "columnName": "计量单位",
+      "columnShortCode": "缩写",
+      "contextMenuDelete": "删除"
+    },
+    "empty-state": {
+      "title": "暂无数据",
+      "subline": "在这里管理产品计量单位."
+    },
+    "notification": {
+      "successMessage": "保存成功.",
+      "errorMessage": "保存失败，请补充必填字段。"
+    }
+  },
+  "sw-privileges": {
+    "permissions": {
+      "scale_unit": {
+        "label": "计量单位"
+      }
+    }
+  }
+}

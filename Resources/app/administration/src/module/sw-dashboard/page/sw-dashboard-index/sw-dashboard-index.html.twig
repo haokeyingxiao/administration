@@ -1,0 +1,22 @@
+<!-- eslint-disable-next-line sw-deprecation-rules/no-twigjs-blocks -->
+{% block sw_dashboard_index %}
+<sw-page
+    class="sw-dashboard-index"
+    :show-smart-bar="false"
+>
+    <!-- eslint-disable-next-line sw-deprecation-rules/no-twigjs-blocks -->
+    {% block sw_dashboard_index_content %}
+    <template #content>
+        <sw-card-view class="sw-dashboard-index__content">
+            <!-- eslint-disable-next-line sw-deprecation-rules/no-twigjs-blocks -->
+            {% block sw_dashboard_index_content_intro_card %}
+            <!-- eslint-disable-next-line sw-deprecation-rules/no-twigjs-blocks -->
+            {% block sw_dashboard_index_content_intro_content %}
+                
+            {% endblock %}
+            {% endblock %}
+        </sw-card-view>
+    </template>
+    {% endblock %}
+</sw-page>
+{% endblock %}

@@ -1,0 +1,54 @@
+{
+  "sw-settings-usage-data": {
+    "general": {
+      "mainMenuItemGeneral": "分享数据",
+      "textHeadline": "数据分享",
+      "description": "配置以与我们分享使用数据，以改进 Shopware。"
+    }
+  },
+  "sw-settings-usage-data-general": {
+    "tabHeadline": "常规"
+  },
+  "sw-usage-data-consent-banner": {
+    "headline": "塑造电子商务的未来",
+    "improvingDescription": "我们正在不断改进为您提供的服务。为了迈出下一步，我们使用机器学习等技术（例如模式识别）来分析您的数据，以开发和改进我们的产品。您的数据也将用于开发数据驱动的服务，旨在提高您的业务成功率。我们收集的数据包括：",
+    "improvingDescriptionNotAccepted": "我们正在不断改进为您提供的服务。为了迈出下一步，我们希望使用机器学习等技术（例如模式识别）来分析您的数据，以开发和改进我们的产品。您的数据也将用于开发数据驱动的服务，旨在提高您的业务成功率。我们将收集的数据包括：",
+    "fullDetailsDescription": "此协议的详细信息请参见 {link}。{fullDetailsDescriptionNotAccepted}",
+    "fullDetailsDescriptionNotAccepted": "您可以随时选择退出数据分享。",
+    "confirmAuthorization": "点击“同意”即表示您确认您有权代表您的公司签订此协议。",
+    "privacyPolicy": "snapadmin.net/en/data-use-details",
+    "privacyPolicyLink": "https://www.snapadmin.net/en/data-use-details/",
+    "collectionInformation": {
+      "orderData": "订单数据",
+      "usageData": "使用数据",
+      "diagnosticData": "诊断数据",
+      "storeData": "商店数据",
+      "helpText": {
+        "orderDataHelp": "<strong>订单数据</strong> 指的是在 Shopware 平台上客户订单的详细信息。包括产品订单、数量、价格、来源、支付方式、运输等。我们分析这些数据以了解趋势和模式，从而增强功能并开发新服务，旨在提高您的业务成功率。我们不会收集可以识别单个客户的个人数据。",
+        "usageDataHelp": "<strong>使用数据</strong> 指的是与管理员用户和店面访客如何与我们的平台交互相关的信息。包括与不同 Shopware 管理模块的交互、查看的页面、访问持续时间、点击路径以及平台和店面的用户操作。通过评估使用数据，我们可以识别平台中频繁访问或避免的区域，从而衡量功能采用情况，并有可能改善布局、设计和功能。我们不会收集可以识别管理员或店面访客的个人数据。",
+        "diagnosticDataHelp": "<strong>诊断数据</strong> 指的是与系统健康、错误和平台性能指标相关的信息。包括系统日志、错误消息、服务器响应时间和其他技术指标。分析这些数据有助于我们快速识别、解决并部署常见问题或漏洞的修复，从而保持平台的完整性。",
+        "storeDataHelp": "<strong>商店数据</strong> 指的是与您的在线店面相关的所有信息。包括产品、列表、价格、图片、描述等以及有关您商店设置的元数据，如主题和插件。我们不会收集可以识别管理员用户或店面访客的个人数据。使用汇总的商店数据，我们可以通过机器学习提供见解，如新兴市场趋势，从而使您可以相应地调整产品供应或营销策略。"
+      }
+    },
+    "checkListDataSharing": {
+      "title": "我们可以向您保证：",
+      "gdprCompliant": "我们符合 GDPR 规定",
+      "personalData": "我们不会收集个人数据",
+      "securelyProcessed": "您的数据将被安全处理和存储",
+      "thirdParty": "我们不会将您的数据与第三方共享用于他们自己的目的",
+      "helpText": {
+        "shareDataHelpText": "<strong>“分享”</strong> 指的是为接收方自己的目的披露数据；我们可能会向我们的服务提供商披露数据。"
+      }
+    },
+    "acceptDataCollection": "同意",
+    "declineDataCollection": "暂时不同意",
+    "togglePath": "设置",
+    "rejectedMessage": "您可以随时同意该协议，从而通过在 {link} 中允许数据分享来贡献和受益于我们服务的不断改进。",
+    "thankYouMessage": "{thanksForParticipation} 您可以随时选择退出此协议，从而通过在 {link} 中禁用数据分享来停止对我们服务的持续开发的贡献和受益。",
+    "thanksForParticipation": "感谢您的参与！",
+    "settings": {
+      "deactivateDataCollection": "禁用数据分享",
+      "sharingInformation": "您正在与我们分享数据"
+    }
+  }
+}

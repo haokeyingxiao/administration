@@ -1,0 +1,16 @@
+{
+  "sw-settings-store": {
+    "general": {
+      "mainMenuItemGeneral": "官方账号",
+      "textHeadline": "官方账号",
+      "description": "在这里更改您的好客平台账号设置。",
+      "buttonSave": "保存",
+      "messageSaveSuccess": "您的好客平台账号信息已保存。"
+    },
+    "detail": {
+      "titleCard": "设置",
+      "labelHost": "许可证域名",
+      "placeholderHost": "输入在您的好客平台账号中指定的许可证域名（商店域名）。"
+    }
+  }
+}

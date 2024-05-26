@@ -1,0 +1,11 @@
+{
+  "sw-settings-login-registration": {
+    "general": {
+      "mainMenuItemGeneral": "登录 & 注册",
+      "description": "在这里更改基本信息。",
+      "textHeadline": "登录 & 注册",
+      "buttonSave": "保存",
+      "messageSaveSuccess": "配置已保存。"
+    }
+  }
+}

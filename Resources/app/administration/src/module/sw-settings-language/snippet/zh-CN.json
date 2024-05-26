@@ -1,0 +1,51 @@
+{
+  "sw-settings-language": {
+    "general": {
+      "mainMenuItemGeneral": "语言",
+      "placeholderSearchBar": "搜索语言..."
+    },
+    "list": {
+      "textHeadline": "语言",
+      "textDeleteConfirm": "确定要删除语言 \"{name}\" 吗？这将删除该语言的所有内容，且无法撤销！",
+      "columnName": "名称",
+      "columnLocaleName": "区域设置",
+      "columnIsoCode": "ISO 代码",
+      "columnInherit": "继承自",
+      "columnDefault": "默认",
+      "buttonAddLanguage": "添加语言",
+      "contextMenuEdit": "编辑",
+      "messageDeleteSuccess": "语言 \"{name}\" 已删除。",
+      "buttonCancel": "取消",
+      "buttonDelete": "删除",
+      "titleSidebarFilter": "筛选",
+      "titleSidebarQuickFilter": "快速筛选",
+      "textFilterRootLanguages": "仅显示 \"根\" 语言",
+      "textFilterInheritedLanguages": "仅显示继承的语言"
+    },
+    "detail": {
+      "textHeadline": "新语言",
+      "titleCard": "设置",
+      "messageSaveSuccess": "语言 \"{name}\" 已保存。",
+      "labelName": "名称",
+      "labelLocale": "区域设置",
+      "labelParent": "继承自",
+      "labelIsoCode": "ISO 代码",
+      "placeholderName": "输入名称...",
+      "placeholderPleaseSelect": "请选择...",
+      "buttonCancel": "取消",
+      "buttonSave": "保存",
+      "tooltipLanguageNotChoosable": "不能选择已继承自其他语言的语言。",
+      "tooltipInheritanceNotPossible": "系统默认语言不能继承自其他语言。",
+      "textAlertChangeParent": "更改父语言可能会导致翻译不一致。",
+      "textIsoCodeIsInUse": "此 ISO 代码已被使用。",
+      "textLanguageHasParent": "该语言已经继承自其他语言。"
+    }
+  },
+  "sw-privileges": {
+    "permissions": {
+      "language": {
+        "label": "语言"
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "sw-settings-seo": {
+    "general": {
+      "mainMenuItemGeneral": "SEO",
+      "descriptionTextModule": "管理SEO设置。",
+      "textHeadline": "SEO",
+      "buttonSave": "保存"
+    }
+  },
+  "sw-settings-seo-entity-detail": {
+    "labelMetaTitle": "Meta标题",
+    "labelAdditionalText": "Meta描述"
+  },
+  "sw-seo-url-template-card": {
+    "general": {
+      "titleCard": "SEO URL模板",
+      "labelPossibleValues": "可能的变量",
+      "tooltipValidTemplate": "模板有效",
+      "tooltipInvalidTemplate": "模板无效",
+      "messageSaveError": "并非所有模板都有效。",
+      "messageSaveSuccess": "SEO URL模板已保存。",
+      "preview": "预览：",
+      "placeholderSelectVariables": "搜索并选择...",
+      "labelSalesChannelSelect": "销售渠道",
+      "textUrlPreviewNotPossible": "无法生成此模板的预览。",
+      "textUrlNoEntitiesForPreview": "没有可用的{entity}。",
+      "textUrlPreviewEmptyTemplate": "模板为空，不会为{entity}生成SEO URL。",
+      "headlineInfoMessageBoxEmptyProperties": "信息",
+      "textInfoMessageBoxEmptyProperties": "使用变量时，请确保在所有相应实体（产品、登陆页面或类别）的字段中都有数据。如果变量引用空字段，则不会为相应实体创建SEO URL。"
+    },
+    "routeNames": {
+      "frontend-detail-page": "产品详情页",
+      "frontend-navigation-page": "类别页面",
+      "frontend-landing-page": "登陆页面"
+    }
+  },
+  "sw-seo-url": {
+    "titleCard": "SEO URL",
+    "labelSalesChannelSelect": "销售渠道",
+    "labelSeoPathInfo": "SEO路径",
+    "textEmptySeoUrls": "尚无SEO URL。",
+    "textSeoUrlsDisallowedForHeadless": "SEO URL不能分配给无头销售渠道。",
+    "labelMainCategory": "主类别",
+    "placeholderMainCategory": "选择一个主类别..."
+  }
+}

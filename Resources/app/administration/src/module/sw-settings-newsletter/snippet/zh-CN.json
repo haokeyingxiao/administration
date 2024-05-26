@@ -1,0 +1,11 @@
+{
+  "sw-settings-newsletter": {
+    "general": {
+      "mainMenuItemGeneral": "订阅",
+      "description": "在这里更改新闻订阅配置。",
+      "textHeadline": "新闻订阅",
+      "buttonSave": "保存",
+      "messageSaveSuccess": "配置已保存。"
+    }
+  }
+}
