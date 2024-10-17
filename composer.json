@@ -1,0 +1,36 @@
+{
+    "name": "haokeyingxiao/administration",
+    "description": "Administration frontend for the HaoKe Core",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shopware\\Administration\\": ""
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "support": {
+        "issues": "https://issues.haokeyingxiao.com",
+        "forum": "https://forum.haokeyingxiao.com",
+        "wiki": "https://developer.haokeyingxiao.com",
+        "docs": "https://developer.haokeyingxiao.com",
+        "chat": "https://slack.haokeyingxiao.com"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "6.6.x-dev",
+            "dev-trunk": "6.6.x-dev"
+        }
+    },
+    "require": {
+        "php": "~8.2.0 || ~8.3.0",
+        "doctrine/dbal": "^3.9",
+        "haokeyingxiao/core": "*",
+        "symfony/framework-bundle": "~7.1.1",
+        "symfony/http-foundation": "~7.1.1",
+        "symfony/routing": "~7.1.1",
+        "symfony/mime": "~7.1.1"
+    }
+}
